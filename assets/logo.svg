@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Rinse Forge logo</title>
+  <desc id="desc">A forged steel edge above a flowing quench line</desc>
+  <rect width="120" height="120" rx="26" fill="#202426"/>
+  <path d="M21 34h55l19 13-15 15H65l-7 18H41l-7-18H21Z" fill="#E8EEEC"/>
+  <path d="M27 47h52" fill="none" stroke="#C95636" stroke-width="7" stroke-linecap="round"/>
+  <path d="M17 91c18-13 31 10 49-2s26-1 39-9" fill="none" stroke="#65AEB4" stroke-width="8" stroke-linecap="round"/>
+</svg>
