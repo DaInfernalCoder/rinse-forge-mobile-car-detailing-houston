@@ -11,4 +11,4 @@ All photographs are licensed stock used to illustrate detailing context. They do
 - `polishing-work.jpg`: https://www.pexels.com/photo/man-polishing-a-car-14908957/
 - `interior-finish.jpg`: https://www.pexels.com/photo/interior-of-a-car-16495940/
 
-The Rinse Forge wheel-and-V logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/
+The Rinse Forge forged-edge and quench-line logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/
