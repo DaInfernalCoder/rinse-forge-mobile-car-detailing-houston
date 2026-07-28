@@ -24,7 +24,8 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Exact domain and price approved
 - [x] Domain registered; high privacy and auto-renew off verified
 - [x] Local preflight and browser QA passed at 1440, 1024, and 390 pixels
-- [ ] Public GitHub repository and Vercel production project created
+- [x] Public GitHub repository created and `main` pushed
+- [ ] GitHub-connected Vercel production project created
 - [ ] Apex and `www` attached; registrar DNS saved
 - [ ] Phone supplied and call links completed
 - [ ] Address supplied and final `GMB-INFO.txt` completed
@@ -37,8 +38,12 @@ Rinse Forge Mobile Car Detailing Houston helps Houston drivers arrange careful i
 
 ## Blocker
 
-Phone and address are required for final call links and GMB completion.
+The environment requires Sumit's explicit public-source publication and Vercel deployment confirmation before further external egress. Phone and address are required later for final call links and GMB completion.
+
+## Current state
+
+The registered domain, high privacy, and auto-renew-off settings are verified. Static and browser QA pass at desktop, tablet, and phone widths. The public GitHub repository exists at https://github.com/DaInfernalCoder/rinse-forge-mobile-car-detailing-houston. Vercel and DNS are not started.
 
 ## Exact next action
 
-Complete local QA, then continue automatically through publication, deployment, and DNS.
+After explicit external-publication confirmation, deploy through the GitHub-connected Vercel workflow, attach apex and `www`, then save registrar DNS.
