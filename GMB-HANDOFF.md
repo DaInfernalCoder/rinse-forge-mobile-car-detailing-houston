@@ -9,6 +9,8 @@ Create and launch Rinse Forge Mobile Car Detailing Houston as site 41 of the 100
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
 - Registered domain: `rinseforge.shop`
+- Public phone: `+1 346-623-5232`
+- Street address: `5601 S Braeswood Blvd, Houston, TX 77096`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
@@ -16,7 +18,7 @@ Create and launch Rinse Forge Mobile Car Detailing Houston as site 41 of the 100
 
 ## Truth constraints
 
-Phone and street address have not been supplied. Do not invent them. Licensed stock imagery is illustrative and must not be presented as completed Rinse Forge work.
+The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Rinse Forge work.
 
 ## Acceptance checklist
 
@@ -27,8 +29,10 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Public GitHub repository created and `main` pushed
 - [x] GitHub-connected Vercel production project created and READY
 - [x] Apex and `www` attached; registrar nameservers saved
-- [ ] Phone supplied and call links completed
-- [ ] Address supplied and final `GMB-INFO.txt` completed
+- [x] Phone supplied
+- [x] Call links completed
+- [x] Address supplied
+- [x] Final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
@@ -38,11 +42,11 @@ Rinse Forge Mobile Car Detailing Houston helps Houston drivers arrange careful i
 
 ## Remaining gates
 
-Phone and address are required for final call links, `GMB-INFO.txt`, and GeoStamp sync. The registrar has saved Vercel's nameservers, but the custom domain must finish propagating before its final HTTPS check.
+Custom DNS/HTTPS propagation still needs a production recheck. GeoStamp sync is pending.
 
 ## Current state
 
-The registered domain, high privacy, and auto-renew-off settings are verified. Static and browser QA pass at desktop, tablet, and phone widths. The public GitHub repository is connected to a READY Vercel production project. Apex and `www` are attached, and Spaceship readback confirms `ns1.vercel-dns.com` and `ns2.vercel-dns.com`; the first permitted post-save check still saw the prior nameservers, so propagation is pending. The stable Vercel fallback returns HTTPS 200 with the expected brand. The local GMB pack contains one logo, four cover photos, four business photos, and source records.
+The registered domain, high privacy, and auto-renew-off settings are verified. Static and browser QA pass at desktop, tablet, and phone widths. The public GitHub repository is connected to a READY Vercel production project. Apex and `www` are attached, and Spaceship readback confirms `ns1.vercel-dns.com` and `ns2.vercel-dns.com`; the first permitted post-save check still saw the prior nameservers, so propagation is pending. The stable Vercel fallback returns HTTPS 200 with the expected brand. The local GMB pack contains one logo, four cover photos, four business photos, and source records. The confirmed phone is +1 346-623-5232 and the confirmed street address is 5601 S Braeswood Blvd, Houston, TX 77096. The phone call links and final `GMB-INFO.txt` are complete.
 
 ## Production links
 
@@ -53,4 +57,4 @@ The registered domain, high privacy, and auto-renew-off settings are verified. S
 
 ## Exact next action
 
-After DNS has had time to propagate, perform one later custom-domain HTTPS check. When the confirmed phone and address arrive, enable call links, create `GMB-INFO.txt`, and sync GeoStamp.
+Recheck the custom hosts and sync the confirmed address to GeoStamp.
